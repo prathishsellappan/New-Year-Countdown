@@ -1,0 +1,35 @@
+body{
+    background-image: url(wp2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#time{
+    color: white;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    padding-top: 20px;
+}
+
+#date{
+    color: white;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    padding-top: 20px;
+}
+
+#countdown{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 10px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    padding-top: 20px;
+}
